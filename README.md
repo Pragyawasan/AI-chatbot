@@ -8,7 +8,7 @@ Built as a PM initiative to expand on a proven AI test drive booking bot (+34% c
 
 ## Live Demo
 
-👉 **[View live prototype](#)** *(replace with your Netlify URL after deploying)*
+👉 **View live prototype:https://jolly-sprinkles-ad063c.netlify.app/** 
 
 ---
 
